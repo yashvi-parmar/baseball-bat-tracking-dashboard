@@ -1,6 +1,6 @@
 # WISD Hackathon Submission
 
-This project is part of my submission to the WISD hackathon. This year, we were given anonymized data from a 3-game series between two MLB affiliate teams. The data consisted of at-bat level information, with positional data tracking the path of the ball and bat.
+This project is part of my submission to the WISD hackathon. This year, we were given anonymized data from a 3-game series between two MLB affiliate teams. The data consisted of at-bat level information, with positional data tracking the path of the ball and bat. The data is not publicly accessible, but the steps of data processing have been outlined in `data.ipynb` and `data_continued.ipynb`.
 
 ## Interactive Dashboard
 [The Webapp](https://wisd-hackathon-bat-tracking-dashboard.streamlit.app/)
