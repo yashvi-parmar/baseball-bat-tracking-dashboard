@@ -3,7 +3,6 @@
 This project is part of my submission to the WISD hackathon. This year, we were given anonymized data from a 3-game series between two MLB affiliate teams. The data consisted of at-bat level information, with positional data tracking the path of the ball and bat. The data is not publicly accessible, but the steps of data processing have been outlined in `data.ipynb`. I removed the initial data wrangling to preserve the anonymity of the data. I chose to only display one team's swing information in this process, as this is reflective of how this dashboard is intended to be used by one team in analyzing their players' swings. 
 
 ## Interactive Dashboard
-[The Webapp](https://wisd-hackathon-bat-tracking-dashboard.streamlit.app/)
 
 I chose to create an interactive dashboard for MLB coaching staff to explore each at-bat event. The web app, hosted with Streamlit, has three main pages:
 
